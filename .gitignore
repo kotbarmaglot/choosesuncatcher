@@ -1,1 +1,4 @@
 /choosesuncatcher/config.py
+/choosesuncatcher/__pycache__/*
+/choosesuncatcher/__pycache__
+*.json
